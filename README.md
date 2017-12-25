@@ -1,4 +1,4 @@
-# PenguinHood
+# penguin-hood
 Created with C# and the Unity Engine by Andrew Yin Li for Oberlin College Winter Term 2017.
 
 I coded the game from scratch and all the sprites and graphics used in the game were created independently by me.
